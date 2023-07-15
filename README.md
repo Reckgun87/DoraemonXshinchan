@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DoraemonXshinchan
-- 👀 I’m interested in developing structured apps in the near future.
-- 🌱 I’m currently learning the C programming language.
-- 📫 Just ping me here and I'll reply asap.
+We go jim
 
 <!---
 DoraemonXshinchan/DoraemonXshinchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
